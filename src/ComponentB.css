@@ -1,0 +1,16 @@
+.Counters {
+  display: flex;
+  width: 100%;
+  flex-flow: column;
+  align-items: center;
+  border: transparent 1px black;
+  margin-top: 200px;
+}
+
+.Counters > h3 {
+  background-color: cornflowerblue;
+  margin: 2px;
+  padding: 6px;
+  border: 1px solid black;
+  margin-bottom: 5px;
+}
